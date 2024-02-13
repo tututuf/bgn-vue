@@ -1,0 +1,162 @@
+.el-drawer{
+  height: 30% !important;
+  .nav-box{
+    ul{
+      padding: 0;
+      li{
+        margin: 0;
+        zoom: 0.9;
+      }
+    }
+  }
+}
+.img {
+  position: relative;
+  height: 35vh;
+  img{
+    position: absolute;
+    height: 100%;
+    margin: auto;
+    text-align: center;
+    transform: translateX(-50%);
+    left: 50%;
+  }
+  
+}
+.contain {
+  min-height: unset !important;
+  padding-bottom: 20px;
+  height: unset !important;
+}
+.contain.pg {
+  .text {
+
+    .weight{
+      width: 100vw;
+      margin-left: unset;
+      left: 50%;
+      transform: translateX(-50%);
+      top: 49rem;
+    }
+    
+    .font{
+      margin: 20px auto !important;
+      width: 66rem !important;
+    }
+  }
+  a{
+    display: block;
+    width: 20rem;
+    margin: auto;
+    img {
+      width: 100%;
+    }
+  }
+}
+
+.contain .box {
+  .weight,.font{
+    zoom: 0.5;
+  }
+  .type-box{
+    zoom: 0.7;
+  }
+}
+
+.contain .text-box{
+  .img-box{
+    img{
+      width: 100%;
+    }
+  }
+}
+
+.detail-box {
+  .title-box, .text-box{
+    zoom: 0.5;
+  }
+}
+
+.readme {
+    display: block;
+    width: 20rem;
+    margin: auto;
+    img {
+      width: 100%;
+    }
+}
+.page-item {
+  .weight{
+    top: 51rem !important;
+    zoom: 0.7;
+  }
+  .font{
+    width: 60rem;
+  }
+}
+
+.contain .index{
+  background-size: cover !important;
+  height: 100vh !important;
+  .flanges-box{
+    width: 57vw;
+    .title-box {
+      font-size: 8rem;
+    }
+    img{
+      width: 100%;
+    }
+    .text-box{
+      width: 100% !important;
+    }
+  }
+}
+
+.type-row{
+  height: 17rem !important;
+}
+
+.services-row{
+  height: 30rem;
+  .bottom-box{
+    position: absolute;
+    top: 60rem !important;
+    zoom: 0.4;
+    .title, .text{
+      display: none;
+      padding: 0 !important;
+    }
+  }
+}
+
+.service-page{
+  height: 100vh !important;
+  background-size: cover;
+  .contain{
+    height: 100% !important;
+  }
+}
+.whole-mask{
+  min-height: unset !important;
+  height: unset !important;
+  padding-bottom: 10rem;
+  .item{
+    .weight{
+      height: 11rem !important;
+    }
+  }
+}
+.service-page .contain{
+  padding: 0;
+}
+
+.contain .type-box .img-box .product {
+  padding-top: 8rem;
+  // padding-left: 26rem;
+  .product-box{
+    padding-left: 26rem !important;
+  }
+}
+.service-sentence{
+  // min-height: 85rem !important;
+}
